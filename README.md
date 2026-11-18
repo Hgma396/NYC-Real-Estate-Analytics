@@ -77,6 +77,12 @@ These are **research priorities**, not proven investment opportunities or estima
 
 The report includes three pages:
 
+## Executive Case Study Report
+
+The full report documents the business problem, data cleaning methodology, SQL analysis, key findings, marketing recommendations, and data limitations.
+
+[Read the Full Case Study Report (PDF)](report/NYC_Real_Estate_Case_Study.pdf)
+
 1. **Executive Overview** — total records, eligible pricing records, median sale price, potential bulk records, borough comparisons, and monthly activity.
 2. **Market & Property Analysis** — property-class median prices and median sale price per gross square foot by borough.
 3. **Marketing Opportunities** — residential segment comparisons, an interactive matrix, and preliminary marketing recommendations.

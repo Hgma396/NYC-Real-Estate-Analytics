@@ -74,7 +74,6 @@ The report includes three pages:
 - [Power BI report (`.pbix`)](dashboard/Real_Estate_Analytics.pbix)
 - [Exported dashboard (`.pdf`)](dashboard/Real_Estate_Analytics.pdf)
 
-> Add the final `.pbix` and updated PDF to `dashboard/` before publishing this README. The PDF initially reviewed during development preceded the final layout changes.
 
 ## Data quality and caveats
 

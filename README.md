@@ -64,6 +64,17 @@ These are **research priorities**, not proven investment opportunities or estima
 
 ## Power BI dashboard
 
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](images/executive_overview.png)
+
+### Market & Property Analysis
+![Market & Property Analysis](images/market_property_analysis.png)
+
+### Marketing Opportunities
+![Marketing Opportunities](images/marketing_opportunities.png)
+
 The report includes three pages:
 
 1. **Executive Overview** — total records, eligible pricing records, median sale price, potential bulk records, borough comparisons, and monthly activity.
